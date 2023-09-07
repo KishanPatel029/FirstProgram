@@ -1,0 +1,11 @@
+package miit100programs;
+
+public class Mutliplication 
+{
+public static void main(String[]args) {
+	int k = 8;
+	for (int i = 3; i<= 15; i++) {
+		System.out.println(num +"x"+i+"="+(num * i));
+	}
+}
+}

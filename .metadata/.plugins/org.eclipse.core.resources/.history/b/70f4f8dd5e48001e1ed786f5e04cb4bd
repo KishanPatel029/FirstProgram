@@ -1,0 +1,16 @@
+package miit100programs;
+
+public class EvenOdd {
+	public static void main(String[]args) {
+	
+		scanner reader = new scanner (system.in);
+		System.out.print("enter a number:");
+		int num = reader.nextInt();
+		if (num % 2 == 0)
+			System.out.println(num + "is even");
+		else
+			System.out.println(num + "is odd");
+			
+	}
+
+}

@@ -1,0 +1,26 @@
+package miit100programs;
+
+public class EvenOrOdd {
+
+	public static void main(String[] args)  
+	{
+		int x = 7;
+		int y = 10;
+		if (x % 2 == 0) {
+			System.out.println("Even");
+			
+		} else {
+			System.out.println("Odd");
+		}if (y % 2 == 0) {
+			System.out.println("Even");
+			
+		} else {
+			System.out.println("Odd");
+		}
+		
+		
+	
+
+	}
+
+}

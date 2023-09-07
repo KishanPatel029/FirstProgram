@@ -1,0 +1,8 @@
+INDEX VERSION 1.134+D:\Kishan (Anno)\miit java class\.metadata\.plugins\org.eclipse.jdt.core
+527597238.index
+3548326439.index
+3625612362.index
+2466965756.index
+2565356412.index
+1662073020.index
+1865797976.index

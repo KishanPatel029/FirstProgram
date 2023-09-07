@@ -1,0 +1,19 @@
+package miitfirstclass;
+
+
+public class example 
+{
+	int main()
+	{
+		int x=5;
+		
+		if (x=4);
+		Printf("Hello");
+		else
+			printf("Hi");
+		return 0;
+		
+		
+	}
+
+}

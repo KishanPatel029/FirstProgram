@@ -1,0 +1,19 @@
+package miitfirstclass;
+
+public class IfElse 
+{
+	int main() {
+		int x=5;
+		if(x=4);
+		printf("hello");
+		else
+			printf("hi");
+		return 0;
+		
+	}
+
+
+	}
+	
+
+

@@ -1,0 +1,15 @@
+package miit100programs;
+
+public class MultiplyTwoNumbers {
+
+	public static void main(String[] args) 
+	{
+		float x = 1.5;
+		float y = 2.0;
+		
+		float num = x * y;
+		System.out.println("the num is:"+num);
+
+	}
+
+}
